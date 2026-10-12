@@ -12,7 +12,7 @@ visibility: public
 effective: 2026-09-29
 source:
   kind: pdf
-  file: files/minutes/2026-09-29-board-minutes.pdf
+  file: library/files/minutes/2026-09-29-board-minutes.pdf
   sha256: fa47e7ab27ea60c705cf882a05c2bf7e72e52c050a7894dab9034724faed4b24
 certainty: reported
 subjects: [meetings, minutes]
