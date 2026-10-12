@@ -5,8 +5,8 @@
 #
 # A team:      *  @your-org/records-reviewers
 # Individuals: *  @board-secretary @tech-director
-*  @REPLACE-WITH-YOUR-REVIEWER
+*  @cpitzi
 
 # The checks that gate a PR live here; changing them is a bigger decision than
 # adding a record, so you may want a tighter reviewer on the workflows.
-/.github/  @REPLACE-WITH-YOUR-REVIEWER
+/.github/  @cpitzi

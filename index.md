@@ -1,9 +1,10 @@
 # Records
 
-This is the public records vault for **your organization** — minutes, notices,
-bylaws, policies, filings, reports, and announcements, each kept as one Markdown
-file with its original document alongside it. Edit the name above and this
-paragraph to describe your organization.
+This is the public records vault for the **Pennywell Street Pantry**, an
+all-volunteer food pantry — minutes, notices, bylaws, policies, filings, reports,
+and announcements, each kept as one Markdown file with its original document
+alongside it. (The pantry and every person named here are fictional; this vault
+exists to exercise a template during a timed drill.)
 
 Everything here is public. A change is made by opening a pull request; when it
 merges, the records publish, the **"Is it posted?"** board updates, and a receipt
