@@ -1,11 +1,11 @@
 [
   {
     "id": "ma-oml-minutes-timely",
-    "state": "no-data",
-    "satisfied_by": null,
-    "deadline": null,
-    "published_at": null,
-    "gap": null,
+    "state": "green",
+    "satisfied_by": "2026-09-29-minutes-of-the-regular-board-meeting-september-29-2026",
+    "deadline": "2026-10-29",
+    "published_at": "2026-10-12T19:53:40Z",
+    "gap": -17,
     "history": null
   }
 ]

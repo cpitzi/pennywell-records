@@ -1,5 +1,19 @@
 {
-  "digest": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-  "published_at": "2026-10-12T19:48:58Z",
-  "records": []
+  "digest": "9bc3e8ebc59c1ebd52d0ec337e4f2d7f2f7de836c4028e6c3453dee10fe31ba0",
+  "published_at": "2026-10-12T19:53:40Z",
+  "records": [
+    {
+      "doc_id": "2026-09-29-minutes-of-the-regular-board-meeting-september-29-2026",
+      "title": "Minutes of the regular board meeting, September 29, 2026",
+      "tags": [
+        "2026",
+        "minutes"
+      ],
+      "volatility": "stable",
+      "body": "# Minutes of the regular board meeting, September 29, 2026\n\nApproved minutes of the Pennywell Street Pantry board's regular meeting of September 29, 2026, covering the treasurer's report, the Winter Shelves appeal, volunteer coverage, and a new practice of posting minutes within thirty days. The pantry and everyone named are fictional; this record exercises a template during a timed drill.",
+      "path": "records/minutes/2026-09-29-minutes-of-the-regular-board-meeting-september-29-2026.md",
+      "certainty": "inferred",
+      "archived": false
+    }
+  ]
 }
